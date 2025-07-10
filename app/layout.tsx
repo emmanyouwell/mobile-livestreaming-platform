@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "TCHMB Portal Mobile Demo",
+  title: "TCHMB Live Demo",
   description: "Live screen sharing and livestreaming demo",
 };
 
